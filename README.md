@@ -20,7 +20,7 @@
 
 ### Clone the repository  
 ```sh  
-git clone <your-repo-link>   
+git clone https://github.com/NamrathM/Fintellect  
 ```  
 
 ### Install dependencies  
