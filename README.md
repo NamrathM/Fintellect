@@ -1,5 +1,5 @@
 # Fintellect - Smart Finance Management  
-https://postimg.cc/NKYrV1Yq
+![Screenshot 2025-04-04 102015](https://github.com/user-attachments/assets/97c8852e-7991-4c31-b86b-6436a8bf9495)
 
 **Fintellect** is your go-to platform for tracking, saving, and growing your finances. Manage your expenses, set budgets, and gain insights into your financial health.  
 
