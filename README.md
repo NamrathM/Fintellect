@@ -1,6 +1,5 @@
 # Fintellect - Smart Finance Management  
-[image](https://github.com/user-attachments/assets/a5d39f0a-fa26-4363-9699-cb3f89e24bfb)
-
+https://postimg.cc/NKYrV1Yq
 
 **Fintellect** is your go-to platform for tracking, saving, and growing your finances. Manage your expenses, set budgets, and gain insights into your financial health.  
 
@@ -21,8 +20,7 @@
 
 ### Clone the repository  
 ```sh  
-git clone <your-repo-link>  
-cd fintellect-nam  
+git clone <your-repo-link>   
 ```  
 
 ### Install dependencies  
